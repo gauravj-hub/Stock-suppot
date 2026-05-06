@@ -1,9 +1,7 @@
 streamlit
+yfinance
+quantstats
 pandas
-numpy
-yfinance
-matplotlib
-seaborn
-xgboost
-scikit-learn
-yfinance
+plotly
+ipython
+weasyprint
